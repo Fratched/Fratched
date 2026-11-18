@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Domenico!
 
 Checkout OUR COMPANY 
-https://mads-studio.vercel.app/
+fratched.github.io/PortfolioFinal/
 I’m a college student and developer who enjoys building games, tools, and creative projects.  
 Right now I’m working with **C#**, **Unity**, **WinForms**, and **SQL**, and I love turning ideas into working projects — one small step at a time.
 
